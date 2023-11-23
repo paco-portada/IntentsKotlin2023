@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentsKotlin</string>
+    <string name="intents">Intents</string>
+    <string name="nombre">Nombre</string>
+    <string name="volver">Volver</string>
+    <string name="adios">Adios</string>
+</resources>
